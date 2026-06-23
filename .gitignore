@@ -1,0 +1,18 @@
+# 编译产物
+*.exe
+*.obj
+*.res
+*.pdb
+*.ilk
+*.aps
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# CMake
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
